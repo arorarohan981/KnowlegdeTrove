@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">KnowlegdeTrove</string>
+    <string name="category1">Buy Books</string>
+    <string name="category2">Sell Books</string>
+    <string name="category3">E-Books</string>
+    <string name="sellbook1a">List Of All Books</string>
+    <string name="sellbook1b">Add A New Book</string>
+    <string name="Welcome">Welcome</string>
+    <string name="signup">Signup !!!</string>
+    <string name="fullname">Full Name</string>
+    <string name="Username">Username</string>
+    <string name="email">E-Mail Id</string>
+    <string name="phoneno">Phone No</string>
+    <string name="password">Password</string>
+    <string name="Createaccount">Create Account</string>
+    <string name="backtologin">Already Have an Account ? Login</string>
+    <string name="bookname">Book Name :</string>
+    <string name="bookDesc">Book Description:</string>
+    <string name="bookPrice">Enter Selling Price(in Rs):</string>
+</resources>

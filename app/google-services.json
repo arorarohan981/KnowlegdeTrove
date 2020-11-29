@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "643499503828",
+    "firebase_url": "https://knowlegdetrove.firebaseio.com",
+    "project_id": "knowlegdetrove",
+    "storage_bucket": "knowlegdetrove.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643499503828:android:164a228a842e594547cb41",
+        "android_client_info": {
+          "package_name": "com.sdl.knowlegdetrove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643499503828-qqs1fha6qffg8kb5t70eeigb71kflfkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChjQbDPiKt2yULFq_uNcgk9Denskd31xE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643499503828-qqs1fha6qffg8kb5t70eeigb71kflfkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

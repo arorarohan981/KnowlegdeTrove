@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">643499503828-qqs1fha6qffg8kb5t70eeigb71kflfkg.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://knowlegdetrove.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">643499503828</string>
+    <string name="google_api_key" translatable="false">AIzaSyChjQbDPiKt2yULFq_uNcgk9Denskd31xE</string>
+    <string name="google_app_id" translatable="false">1:643499503828:android:164a228a842e594547cb41</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyChjQbDPiKt2yULFq_uNcgk9Denskd31xE</string>
+    <string name="google_storage_bucket" translatable="false">knowlegdetrove.appspot.com</string>
+    <string name="project_id" translatable="false">knowlegdetrove</string>
+</resources>
